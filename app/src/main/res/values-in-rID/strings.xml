@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="txt_seafood">Makanan Laut</string>
+    <string name="txt_dessert">Pencuci Mulut</string>
+    <string name="txt_vegetarian">Vegetarian</string>
+    <string name="txt_breakfast">Sarapan</string>
+    <string name="image_for_banner">Image for Banner</string>
+    <string name="garlic_butter_string">Garlic Butter String</string>
+    <string name="_1_2_k">1.2 k</string>
+    <string name="cooked">Cooked</string>
+    <string name="txt_calories">Kalori</string>
+    <string name="txt_carbo">Karbo</string>
+    <string name="txt_protein">Protein</string>
+    <string name="txt_recipe">Resep</string>
+    <string name="txt_ingredients">Bahan-bahan</string>
+    <string name="txt_directions">Petunjuk Pembuatan</string>
+    <string name="content_image_for_detail_recipe">Content image for detail recipe</string>
+    <string name="txt_detail_recipe">Detail Rese[</string>
+
+</resources>
